@@ -8,5 +8,4 @@ DerivedData/
 .wrangler/
 __pycache__/
 .notes/
-config.bat
 node_modules
